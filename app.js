@@ -68,7 +68,7 @@
                 getBalance();
               }
               else{
-                alert("receipt fail");
+                alert("receipt status fail");
               }
             });
         }
